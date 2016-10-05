@@ -1,3 +1,4 @@
 # remote test. Local change.
 # remote test. remote change.
 # fetch
+# pull === fetch, diff
